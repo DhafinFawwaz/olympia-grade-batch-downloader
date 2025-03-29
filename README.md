@@ -3,6 +3,11 @@
 ## Getting Started
 rename `cookies.example.json` to `cookies.json` and fill in your cookies.
 
+## Install the required packages
+```bash
+pip install -r requirements.txt
+```
+
 ## Quick Command
 The url here is the url of a page that contains tables with grades. So currently you have to manually navigate to the page you want to download and copy the url from the address bar. Do it for all the pages.
 ```bash
